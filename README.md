@@ -1,4 +1,4 @@
-<h1 align="center">Hii</h1>
+<h1 align="center">Hi</h1>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/SkibidiHub111" width="200" style="border-radius:50%">
@@ -7,21 +7,22 @@
 <p align="center">
   <b>Name:</b> Baor<br>
   <b>Email:</b> baoskibidi8@gmail.com<br>
-  <b>Discord:</b> <@1320353633866354708>
+  <b>Discord ID:</b> 1320353633866354708
 </p>
 
 ---
 
 <h2 align="center">About Me</h2>
 
--Just a skidder
+Just a skidder
+share source for everyone
 
 ---
 
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,js,python,html,css,nodejs,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,lua,html" />
 </p>
 
 ---
@@ -34,6 +35,10 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SkibidiHub111&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkibidiHub111&layout=compact&theme=radical" />
 </p>
 
 ---
